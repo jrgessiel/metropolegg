@@ -15,11 +15,11 @@ Cada integrante do grupo DarkSeven possui funções específicas para garantir o
 
 ## 3. Administração Financeira
 - **Registro de Transações**: Manteremos um controle detalhado de todas as operações (datas, quantidades, preços e compradores) para assegurar total transparência.
-- **Devolução de Lucros**: Implementaremos um sistema regular e organizado para repassar os lucros ao fornecedor de forma confiável e pontual.
+- **Devolução de Lucros**: Com um sistema regular e organizado, vamos repassar os lucros ao fornecedor de forma confiável e pontual.
 
 ## 4. Marketing e Vendas
 - **Identificação de Clientes**: Nosso foco está em grupos menores da cidade que demandam armamento e representam potenciais compradores.
-- **Abordagem**: Desenvolveremos um método seguro e discreto para que esses grupos nos contatem via darkchat, preservando a confidencialidade da operação.
+- **Abordagem**: Desenvolvemos um método seguro e discreto para que esses grupos nos contatem via darkchat, preservando a confidencialidade da operação.
 
 ## 5. Nosso Objetivo
 Atuar como intermediários na distribuição de armas para grupos menores, gerando lucros e expansão para o fornecedor, enquanto consolidamos nossa visibilidade e influência no mercado clandestino.
