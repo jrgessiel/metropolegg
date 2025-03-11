@@ -89,11 +89,13 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 
 - **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso.
 <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348693458784882708/image.png?ex=67d10cea&is=67cfbb6a&hm=38d87010dface3a57c234d69d67a85587cd5055e16cfdffd3938092ca2dda993&" alt="Imagem GTR" style="width: 400px; height: 300px;">
+
 - **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas.
 <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348695014167023757/image.png?ex=67d10e5c&is=67cfbcdc&hm=1054352948ab4ba82deaace19f30409bc06f3ea919061ea9efb16a09681fcd6d&" alt="Imagem Van Grime" style="width: 400px; height: 300px;">
 
 ## Vestimentas
 - **Transporte com Van Grime**: Entregadores usarão trajes discretos após o pagamento, focando na entrega das armas.
 <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349089236648984589/image.png?ex=67d1d4c2&is=67d08342&hm=2ba169bbeab4b14fb94d6fb4e56c05d143276f79c9e475de50ee0c7b884132ec&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
+
 - **Transporte com GTR**: Roupas casuais para o primeiro contato e recebimento do dinheiro, evitando suspeitas.
 <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta GTR" style="width: 200px; height: 300px;">
