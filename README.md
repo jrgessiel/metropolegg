@@ -85,17 +85,38 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348353463829926071/image.png?ex=67d121c4&is=67cfd044&hm=aa8c03319734e17e8a328102f60f357fdb364ce7e67d35982a246441ed29a1a7&" alt="Mapa Autopia" style="width: 200px; height: 200px;">
 </div>
 
+### 8. Sala de Jogos Privada
+- **Descrição**: Este é um local seguro estrategicamente projetado para o armazenamento final da mercadoria, funcionando como ponto de estoque central antes da revenda na capital de Los Santos. A Sala de Jogos Privada apresenta uma fachada de espaço recreativo para o grupo, com mesa de sinuca e decoração minimalista, o que disfarça suas operações clandestinas e assegura discrição máxima.
+- **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
+- **Logística**: 
+    - **Armazenamento**: Após a travessia bem-sucedida na fronteira, as armas são transferidas para a Sala de Jogo Privada, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://i.imgur.com/[INSIRA_LINK_IMAGEM_1]" alt="Vista Sala de Jogo Privada" style="width: 200px; height: 200px;">
+  <img src="https://i.imgur.com/[INSIRA_LINK_IMAGEM_2]" alt="Mapa Sala de Jogo Privada" style="width: 200px; height: 200px;">
+</div>
+
 ## Logística de Transporte
 
-- **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso.
-<img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348693458784882708/image.png?ex=67d10cea&is=67cfbb6a&hm=38d87010dface3a57c234d69d67a85587cd5055e16cfdffd3938092ca2dda993&" alt="Imagem GTR" style="width: 400px; height: 300px;">
+- **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso. Utilizado exclusivamente para entregas após a venda em Los Santos, mantendo uma fachada discreta para evitar suspeitas durante a distribuição final.
+- **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas. Usada para entregas após a venda em Los Santos, mantendo a fachada de uma operação legítima enquanto transporta grandes quantidades de armamento para os compradores.
+- **Processo Detalhado**:
+  - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em uma outra cidade chamada Detroit, diretamente com fornecedores confiaveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
+  - **Travessia da Fronteira de Detroit**: Utilizamos rotas diversificadas por água ou terra para atravessar a fronteira, podendo escolher métodos casuais como barcos ou veiculos para estrada, dependendo da situação na fronteira.
+  - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Jogo Privada, servindo como base segura até a venda final.
+  - **Distribuição Final**: A entrega para compradores em Los Santos será feita com veículos discretos para manter a fachada (GTR para entregas rápidas ou Van Grime para grandes volumes), utilizando rotas planejadas para evitar pontos de controle policiais.
 
-- **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas.
-<img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348695014167023757/image.png?ex=67d10e5c&is=67cfbcdc&hm=1054352948ab4ba82deaace19f30409bc06f3ea919061ea9efb16a09681fcd6d&" alt="Imagem Van Grime" style="width: 400px; height: 300px;">
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348693458784882708/image.png?ex=67d10cea&is=67cfbb6a&hm=38d87010dface3a57c234d69d67a85587cd5055e16cfdffd3938092ca2dda993&" alt="Imagem GTR" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348695014167023757/image.png?ex=67d10e5c&is=67cfbcdc&hm=1054352948ab4ba82deaace19f30409bc06f3ea919061ea9efb16a09681fcd6d&" alt="Imagem Van Grime" style="width: 400px; height: 300px;">
+</div>
 
 ## Vestimentas
 - **Transporte com GTR**: Roupas casuais para o primeiro contato e recebimento do dinheiro, evitando suspeitas.
-<img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349089236648984589/image.png?ex=67d1d4c2&is=67d08342&hm=2ba169bbeab4b14fb94d6fb4e56c05d143276f79c9e475de50ee0c7b884132ec&" alt="Imagem Vestimenta GTR" style="width: 200px; height: 300px;">
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349089236648984589/image.png?ex=67d1d4c2&is=67d08342&hm=2ba169bbeab4b14fb94d6fb4e56c05d143276f79c9e475de50ee0c7b884132ec&" alt="Imagem Vestimenta GTR" style="width: 200px; height: 300px;">
+</div>
 
 - **Transporte com Van Grime**: Entregadores usarão trajes discretos após o pagamento, focando na entrega das armas.
-<img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118
