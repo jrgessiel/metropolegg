@@ -15,7 +15,7 @@ Cada integrante do grupo DarkSeven possui funções específicas para garantir o
 
 ## 3. Administração Financeira
 - **Registro de Transações**: Manteremos um controle detalhado de todas as operações (datas, quantidades, preços e compradores) para assegurar total transparência.
-- **Devolução de Lucros**: Com um sistema regular e organizado, vamos repassar os lucros ao fornecedor de forma confiável e pontual.
+- **Devolução de Lucros**: Com um sistema regular e organizado, repassaremos os lucros ao fornecedor de forma confiável e pontual.
 
 ## 4. Marketing e Vendas
 - **Identificação de Clientes**: Nosso foco está em grupos menores da cidade que demandam armamento e representam potenciais compradores.
@@ -89,7 +89,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 - **Descrição**: Este é um local seguro estrategicamente projetado para o armazenamento final da mercadoria, funcionando como ponto de estoque central antes da revenda na capital de Los Santos. A Sala de Jogos Privada apresenta uma fachada de espaço recreativo para o grupo, com mesa de sinuca e decoração minimalista, o que disfarça suas operações clandestinas e assegura discrição máxima.
 - **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
 - **Logística**: 
-    - **Armazenamento**: Após a travessia bem-sucedida na fronteira, as armas são transferidas para a Sala de Jogo Privada, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
+    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Jogos Privada, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Jogos Privada" style="width: 400px; height: 300px;">
@@ -101,9 +101,9 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 - **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso. Utilizado exclusivamente para entregas após a venda em Los Santos, mantendo uma fachada discreta para evitar suspeitas durante a distribuição final.
 - **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas. Usada para entregas após a venda em Los Santos, mantendo a fachada de uma operação legítima enquanto transporta grandes quantidades de armamento para os compradores.
 - **Processo Detalhado**:
-  - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em uma outra cidade chamada Detroit, diretamente com fornecedores confiaveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
-  - **Travessia da Fronteira de Detroit**: Utilizamos rotas diversificadas por água ou terra para atravessar a fronteira, podendo escolher métodos casuais como barcos ou veiculos para estrada, dependendo da situação na fronteira.
-  - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Jogo Privada, servindo como base segura até a venda final.
+  - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em outra cidade chamada Detroit, diretamente com fornecedores confiáveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
+  - **Travessia da Fronteira de Detroit**: Utilizamos rotas diversificadas por água ou terra para atravessar a fronteira, podendo escolher métodos casuais como barcos ou veículos para estrada, dependendo da situação na fronteira.
+  - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Jogos Privada, servindo como base segura até a venda final.
   - **Distribuição Final**: A entrega para compradores em Los Santos será feita com veículos discretos para manter a fachada (GTR para entregas rápidas ou Van Grime para grandes volumes), utilizando rotas planejadas para evitar pontos de controle policiais.
 
 <div style="display: flex; gap: 10px;">
@@ -121,5 +121,3 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
 </div>
-
-
