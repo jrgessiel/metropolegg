@@ -9,7 +9,7 @@ Cada integrante do grupo DarkSeven possui funções específicas para garantir o
 - **Responsável pela Logística**: Gerencia o armazenamento e o transporte seguro das armas.
 
 ## 2. Planejamento Logístico
-- **Armazenamento**: Disponibilizamos três casas estrategicamente localizadas para estocar o armamento recebido, garantindo segurança e acesso controlado.
+- **Armazenamento**: Contamos com uma lugar estratégico para estocar o armamento recebido, garantindo segurança e acesso controlado.
 - **Transporte**: O deslocamento das armas será planejado em duas etapas: do fornecedor ao nosso centro de armazenamento e, posteriormente, aos compradores. Utilizaremos veículos discretos e rotas alternativas para evitar atenção indesejada.
 - **Segurança**: Priorizamos a discrição em todas as etapas, protegendo a identidade dos fornecedores e evitando conflitos com facções rivais ou autoridades locais.
 
@@ -44,7 +44,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 </div>
 
 ### 2. Fenda
-- Controle de um território de 10 km². Entrada permitida apenas com autorização; saída sob nosso comando.
+- Controle total de um vasto território graças à sua altitude, que oferece uma visão clara dos acontecimentos. O acesso é permitido somente com autorização prévia e a saída ocorre sob supervisão rigorosa. Este local é uma pequeno buraco na montanha, usada para garantir a segurança na operação.
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348065022114533538/image.png?ex=67d166a3&is=67d01523&hm=b10bd5ccbfbac452e7b121c81b5978e678f26ce59a1a62013087d1acbde18d76&" alt="Vista Fenda" style="width: 200px; height: 200px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348065022877765713/image.png?ex=67d166a3&is=67d01523&hm=13bb0abab582a7dc256ad3dd6976445813b1ae496a18e6385a0608b103538dc2&" alt="Mapa Fenda" style="width: 200px; height: 200px;">
@@ -58,7 +58,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 </div>
 
 ### 4. Estrada Barbareno
-- Três saídas de fuga e conexão entre a rodovia principal (Paleto-Los Santos). Seguranças posicionados no morro para contenção.
+- Três saídas de fuga e conexão entre a rodovia principal. Seguranças posicionados no morro para contenção.
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348321991345573898/image.png?ex=67d10475&is=67cfb2f5&hm=e148746ff1cccd7e2b3e54cea17bcb2d6ebcdce33d831ef5ffb5da2e0359c326&" alt="Vista Estrada Barbareno" style="width: 200px; height: 200px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348321991895158844/image.png?ex=67d10475&is=67cfb2f5&hm=f93ea20e58200b5dce55cd264557aabd32ae0be25ac7689f5dfb18942859bda3&" alt="Mapa Estrada Barbareno" style="width: 200px; height: 200px;">
@@ -86,10 +86,10 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 </div>
 
 ### 8. Sala de Reuniões Estratégicas
-- **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como ponto seguro de armazenamento da mercadoria antes da revenda na capital de Los Santos. A fachada de espaço de reuniões, com mesa de sinuca e decoração minimalista, disfarça as atividades clandestinas e assegura discrição máxima.
+- **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como o ponto seguro de armazenamento da mercadoria antes da revenda na capital da cidade de Metrópole. Com uma mesa de sinuca e decoração minimalista, a decorção disfarça as atividades clandestinas e assegura discrição máxima.
 - **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
 - **Logística**: 
-    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
+    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores na capital, quando a entrega final é organizada.
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
@@ -98,13 +98,13 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 
 ## Logística de Transporte
 
-- **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso. Utilizado exclusivamente para entregas após a venda em Los Santos, mantendo uma fachada discreta para evitar suspeitas durante a distribuição final.
-- **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas. Usada para entregas após a venda em Los Santos, mantendo a fachada de uma operação legítima enquanto transporta grandes quantidades de armamento para os compradores.
+- **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso. Utilizado exclusivamente para entregas após a venda na capital de metrópole, mantendo um disfarce discreto para evitar suspeitas.
+- **Van Grime**: Ideal para grandes volumes, garantindo discrição em entregas robustas. Usada para entregas após a venda, mantendo a fachada de uma operação legítima enquanto transporta grandes quantidades de armamento para os compradores.
 - **Processo Detalhado**:
-  - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em outra cidade chamada Detroit, diretamente com fornecedores confiáveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
+  - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em uma cidade chamada Detroit, diretamente com fornecedores confiáveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
   - **Travessia da Fronteira de Detroit**: Utilizamos rotas diversificadas por água ou terra para atravessar a fronteira, podendo escolher métodos casuais como barcos ou veículos para estrada, dependendo da situação na fronteira.
   - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Reuniões Estratégicas, servindo como base segura até a venda final.
-  - **Distribuição Final**: A entrega para compradores em Los Santos será feita com veículos discretos para manter a fachada (GTR para entregas rápidas ou Van Grime para grandes volumes), utilizando rotas planejadas para evitar pontos de controle policiais.
+  - **Distribuição Final**: A entrega para compradores na capital será feita com veículos discretos para manter o disfarce (GTR para entregas rápidas ou Van Grime para grandes volumes), utilizando rotas planejadas para evitar pontos de controle policiais.
 
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348693458784882708/image.png?ex=67d10cea&is=67cfbb6a&hm=38d87010dface3a57c234d69d67a85587cd5055e16cfdffd3938092ca2dda993&" alt="Imagem GTR" style="width: 400px; height: 300px;">
