@@ -31,8 +31,6 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 
 ---
 
-## Projeto na Prática
-
 ## Locais de Distribuição
 
 ### 1. TeQui-LaLa
