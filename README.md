@@ -123,3 +123,5 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
 </div>
+
+---
