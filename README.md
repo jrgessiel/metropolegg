@@ -29,8 +29,6 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 - **Aumento de Lucros**: Garantimos a devolução regular e integral dos lucros provenientes das vendas.
 - **Segurança Garantida**: Operamos com máxima discrição, protegendo a identidade do fornecedor e minimizando riscos de exposição.
 
----
-
 ## Locais de Distribuição
 
 ### 1. TeQui-LaLa
