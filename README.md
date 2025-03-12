@@ -85,6 +85,19 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348353463829926071/image.png?ex=67d121c4&is=67cfd044&hm=aa8c03319734e17e8a328102f60f357fdb364ce7e67d35982a246441ed29a1a7&" alt="Mapa Autopia" style="width: 200px; height: 200px;">
 </div>
 
+## Gerenciamento de Estoque
+
+### 1. Sala de Reuniões Estratégicas
+- **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como o ponto seguro de armazenamento da mercadoria antes da revenda na capital da cidade de Metrópole. Com uma mesa de sinuca e decoração minimalista, a decorção disfarça as atividades clandestinas e assegura discrição máxima.
+- **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
+- **Logística**: 
+    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores na capital, quando a entrega final é organizada.
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d21d12&is=67d0cb92&hm=7108bae61e2025b5be1459739b1bd02a13a1baeb67b6e38fb200edbcb346238e&" alt="Vista 2 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
+</div>
+
 ## Logística de Transporte
 
 - **GTR**: Veículo compacto, perfeito para entregas pequenas ou em áreas de difícil acesso. Utilizado exclusivamente para entregas após a venda na capital de metrópole, mantendo um disfarce discreto para evitar suspeitas.
@@ -100,7 +113,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348695014167023757/image.png?ex=67d10e5c&is=67cfbcdc&hm=1054352948ab4ba82deaace19f30409bc06f3ea919061ea9efb16a09681fcd6d&" alt="Imagem Van Grime" style="width: 400px; height: 300px;">
 </div>
 
-## Vestimentas
+## Vestes de Disfarce
 - **Transporte com GTR**: Roupas casuais para o primeiro contato e recebimento do dinheiro, evitando suspeitas.
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349089236648984589/image.png?ex=67d1d4c2&is=67d08342&hm=2ba169bbeab4b14fb94d6fb4e56c05d143276f79c9e475de50ee0c7b884132ec&" alt="Imagem Vestimenta GTR" style="width: 200px; height: 300px;">
@@ -109,17 +122,4 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 - **Transporte com Van Grime**: Entregadores usarão trajes discretos após o pagamento, focando na entrega das armas.
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
-</div>
-
-## Gerenciamento de Estoque
-
-### 1. Sala de Reuniões Estratégicas
-- **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como o ponto seguro de armazenamento da mercadoria antes da revenda na capital da cidade de Metrópole. Com uma mesa de sinuca e decoração minimalista, a decorção disfarça as atividades clandestinas e assegura discrição máxima.
-- **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
-- **Logística**: 
-    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores na capital, quando a entrega final é organizada.
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d21d12&is=67d0cb92&hm=7108bae61e2025b5be1459739b1bd02a13a1baeb67b6e38fb200edbcb346238e&" alt="Vista 2 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
 </div>
