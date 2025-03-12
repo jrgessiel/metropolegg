@@ -85,15 +85,15 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348353463829926071/image.png?ex=67d121c4&is=67cfd044&hm=aa8c03319734e17e8a328102f60f357fdb364ce7e67d35982a246441ed29a1a7&" alt="Mapa Autopia" style="width: 200px; height: 200px;">
 </div>
 
-### 8. Sala de Jogos Privada
-- **Descrição**: Este é um local seguro estrategicamente projetado para o armazenamento final da mercadoria, funcionando como ponto de estoque central antes da revenda na capital de Los Santos. A Sala de Jogos Privada apresenta uma fachada de espaço recreativo para o grupo, com mesa de sinuca e decoração minimalista, o que disfarça suas operações clandestinas e assegura discrição máxima.
+### 8. Sala de Reuniões Estratégicas
+- **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como ponto seguro de armazenamento da mercadoria antes da revenda na capital de Los Santos. A fachada de espaço de reuniões, com mesa de sinuca e decoração minimalista, disfarça as atividades clandestinas e assegura discrição máxima.
 - **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
 - **Logística**: 
-    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Jogos Privada, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
+    - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Jogos Privada" style="width: 400px; height: 300px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d21d12&is=67d0cb92&hm=7108bae61e2025b5be1459739b1bd02a13a1baeb67b6e38fb200edbcb346238e&" alt="Vista 2 Sala de Jogos Privada" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d21d12&is=67d0cb92&hm=7108bae61e2025b5be1459739b1bd02a13a1baeb67b6e38fb200edbcb346238e&" alt="Vista 2 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
 </div>
 
 ## Logística de Transporte
@@ -103,7 +103,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 - **Processo Detalhado**:
   - **Aquisição**: As armas são buscadas de forma casual em um esconderijo em outra cidade chamada Detroit, diretamente com fornecedores confiáveis, em negociações previamente agendadas. O transporte inicial é feito de maneira discreta, sem veículos específicos, para evitar qualquer atenção.
   - **Travessia da Fronteira de Detroit**: Utilizamos rotas diversificadas por água ou terra para atravessar a fronteira, podendo escolher métodos casuais como barcos ou veículos para estrada, dependendo da situação na fronteira.
-  - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Jogos Privada, servindo como base segura até a venda final.
+  - **Armazenamento**: Após cruzar a fronteira, as armas são transportadas para a Sala de Reuniões Estratégicas, servindo como base segura até a venda final.
   - **Distribuição Final**: A entrega para compradores em Los Santos será feita com veículos discretos para manter a fachada (GTR para entregas rápidas ou Van Grime para grandes volumes), utilizando rotas planejadas para evitar pontos de controle policiais.
 
 <div style="display: flex; gap: 10px;">
