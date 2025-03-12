@@ -92,8 +92,8 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
     - **Armazenamento**: Após a travessia bem-sucedida na fronteira, as armas são transferidas para a Sala de Jogo Privada, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores em Los Santos, quando a entrega final é organizada.
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://i.imgur.com/[INSIRA_LINK_IMAGEM_1]" alt="Vista Sala de Jogo Privada" style="width: 200px; height: 200px;">
-  <img src="https://i.imgur.com/[INSIRA_LINK_IMAGEM_2]" alt="Mapa Sala de Jogo Privada" style="width: 200px; height: 200px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d21d12&is=67d0cb92&hm=11d79ed0cd39fc2723f3f5c8dc47434ab4c67b4d4a41c0feec2c11742b7be395&" alt="Vista 1 Sala de Jogos Privada" style="width: 200px; height: 200px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d21d12&is=67d0cb92&hm=7108bae61e2025b5be1459739b1bd02a13a1baeb67b6e38fb200edbcb346238e&" alt="Vista 2 Sala de Jogos Privada" style="width: 200px; height: 200px;">
 </div>
 
 ## Logística de Transporte
@@ -119,4 +119,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 
 - **Transporte com Van Grime**: Entregadores usarão trajes discretos após o pagamento, focando na entrega das armas.
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
+</div>
+
+
