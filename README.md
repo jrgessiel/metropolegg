@@ -33,7 +33,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 
 # Projeto na Prática
 
-## Locais de Operação
+## Locais de Distribuição
 
 ### 1. TeQui-LaLa
 - **Exterior**: Controle total da entrada e saída de veículos.
@@ -85,7 +85,11 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1348353463829926071/image.png?ex=67d121c4&is=67cfd044&hm=aa8c03319734e17e8a328102f60f357fdb364ce7e67d35982a246441ed29a1a7&" alt="Mapa Autopia" style="width: 200px; height: 200px;">
 </div>
 
-### 8. Sala de Reuniões Estratégicas
+---
+
+## Gerenciamento de Estoque
+
+### 1. Sala de Reuniões Estratégicas
 - **Descrição**: Este é o cérebro da operação, projetado para ser o núcleo estratégico do grupo. A Sala de Reuniões Estratégicas é usada para planejar operações, traçar estratégias e coordenar as ações do grupo, funcionando também como o ponto seguro de armazenamento da mercadoria antes da revenda na capital da cidade de Metrópole. Com uma mesa de sinuca e decoração minimalista, a decorção disfarça as atividades clandestinas e assegura discrição máxima.
 - **Segurança**: O local possui portas reforçadas e acesso restrito a membros autorizados. A iluminação controlada e a disposição dos móveis permitem monitoramento constante, garantindo proteção em caso de ameaças policiais ou rivais.
 - **Logística**: 
