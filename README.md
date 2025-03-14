@@ -121,3 +121,6 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
 </div>
 
 ---
+
+## Anotação Final
+- O grupo será composto exclusivamente por quatro integrantes, previamente selecionados, e operará de forma **independente**. Ressaltamos que nossa única ligação será com os fornecedores, sem qualquer tipo de envolvimento, parceria ou conexão com outros grupos e famílias. Este projeto é autônomo e **não** permitirá interferências ou associações além do vínculo essencial com os fornecedores.
