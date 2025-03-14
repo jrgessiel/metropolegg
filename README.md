@@ -115,6 +115,7 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349089236648984589/image.png?ex=67d1d4c2&is=67d08342&hm=2ba169bbeab4b14fb94d6fb4e56c05d143276f79c9e475de50ee0c7b884132ec&" alt="Imagem Vestimenta GTR" style="width: 200px; height: 300px;">
 </div>
 
+
 - **Transporte com Van Grime**: Entregadores usarão trajes discretos após o pagamento, focando na entrega das armas.
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
