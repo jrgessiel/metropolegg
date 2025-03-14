@@ -120,8 +120,6 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
   <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349090152995225751/image.png?ex=67d1d59d&is=67d0841d&hm=078194ee252d591bb51a8b118abc40b4e5a6688b7e1214c052a9ba68ef4ab941&" alt="Imagem Vestimenta Van Grime" style="width: 200px; height: 300px;">
 </div>
 
----
-
 ## Anotação Final
 O grupo será composto exclusivamente por quatro integrantes, previamente selecionados, e operará de forma **independente**. Ressaltamos que nossa única ligação será com os fornecedores, sem qualquer tipo de envolvimento, parceria ou conexão com outros grupos e famílias. Este projeto é autônomo e **não** permitirá interferências ou associações além do vínculo essencial com os fornecedores.
 
