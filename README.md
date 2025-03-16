@@ -90,8 +90,8 @@ Atuar como intermediários na distribuição de armas para grupos menores, geran
     - **Armazenamento**: Após a travessia bem-sucedida da fronteira, as armas são transferidas para a Sala de Reuniões Estratégicas, onde são ocultadas em compartimentos secretos sob a mesa de sinuca. O local serve como base segura até o contato com compradores na capital, quando a entrega final é organizada.
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d4c012&is=67d36e92&hm=2f2f08dbeda954a4e1691d7207be8c4c977397f970e238683d79eb0ca0fe43b0&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
-  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d4c012&is=67d36e92&hm=ea8ae4a27d684fdc31a28075e1dd756a396ca4f1098e361623b3881cc0b8956f&" alt="Vista 2 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166879733846088/image.png?ex=67d80bd2&is=67d6ba52&hm=851a3b803f9c6c50e6a3bff2de7c31100628d8825e1ff148e9adcc07061b2cd4&" alt="Vista 1 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
+  <img src="https://cdn.discordapp.com/attachments/1144126767041355878/1349166880686084259/image.png?ex=67d80bd2&is=67d6ba52&hm=811ea598f19cb95ed8114a897149b7f42470d8199e21c3ee69d9c76049e982ee&" alt="Vista 2 Sala de Reuniões Estratégicas" style="width: 400px; height: 300px;">
 </div>
 
 ## Logística de Transporte
